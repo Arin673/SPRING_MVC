@@ -1,0 +1,4 @@
+id,title,author,isbn,genre,description,coverImage,rating,price
+1,Harry Potter and the Philosopher's Stone,J.K. Rowling,978-1408855652,Fantasy,Harry Potter series,https://books.google.com/books?id=Jrg5vgAACAAJ&dq=harry+potter+and+the+philosopher%27s+stone+book+isbn+number&hl=en&newbks=1&newbks_redir=1&sa=X&ved=2ahUKEwiY_KqarLH-AhVxamwGHXShBMYQ6wF6BAgJEAE,4.8,14.99
+2,Angels and Demons,Dan Brown,978-1416580829,Mystery thriller,A classic mystery thriller,https://books.google.com/books/about/Angyalok_%C3%A9s_D%C3%A9monok.html?id=GvuxEAAAQBAJ&printsec=frontcover&source=kp_read_button&hl=en&newbks=1&newbks_redir=1,4.3,18.99
+3,The Girl on the Train,Paula Hawkins,978-1594633669,Thriller,Pyschological thriller,https://books.google.co.in/books?id=DvoDDAAAQBAJ&dq=girl+on+the+train+book+isbn+number&hl=en&newbks=1&newbks_redir=1&sa=X&ved=2ahUKEwj-hOrEqrH-AhX2cGwGHZCsC_gQ6wF6BAgCEAE,4.1,22.5

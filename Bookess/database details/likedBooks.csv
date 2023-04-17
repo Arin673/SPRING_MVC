@@ -1,0 +1,4 @@
+id,title,author,isbn,genre,description,coverImage,rating,price
+1,The Da Vinci Code,Dan Brown,978-0552161275,Mystery thriller,A classic mystery thriller,https://books.google.com/books/about/The_Da_Vinci_Code.html?id=ivzfRJGrdFsC&printsec=frontcover&source=kp_read_button&hl=en&newbks=1&newbks_redir=1,4.7,25.99
+2,Dune,Frank Herbert,978-0441172719,Science fiction,An epic science fiction adventure ,https://books.google.co.in/books?id=AQk_EAAAQBAJ&dq=dune+book+isbn+number&hl=en&newbks=1&newbks_redir=1&sa=X&ved=2ahUKEwiQn8L4qrH-AhV1XmwGHQkcAtwQ6wF6BAgGEAE,3.9,23.99
+3,The Hobbit,J.R.R. Tolkien,978-0547928227,Fantasy,A children fanatsy,https://books.google.com/books/about/The_Hobbit.html?id=U799AY3yfqcC&printsec=frontcover&source=kp_read_button&hl=en&newbks=1&newbks_redir=1,4.3,24.99
